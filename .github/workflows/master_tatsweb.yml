@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'tatsweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_392F24BC7C6F4254B9716A8E4BF4A38D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9A5670BF9BB4420BB61AC6DA9765BCC }}
           package: .
